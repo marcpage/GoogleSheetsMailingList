@@ -21,3 +21,5 @@ The To: field will be the email address in column 2.
 The first line of the email will be the name in column 1 followed by a comma.
 
 The email sent will look just like the draft email (including CC and BCC fields, images in the message, and attachments).
+
+**Note** There may be a daily limit of how many emails you can send. Just select the menu item the next day and it will pick up where it left off.
